@@ -1,0 +1,1 @@
+export function hi() {console.log("Hi from module 1.");}
